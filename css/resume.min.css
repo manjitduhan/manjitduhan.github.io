@@ -238,39 +238,3 @@ a:active, a:focus, a:hover {
             border: 2px solid #fff; /* Optional: for contrast */
         }
 		
-
-.service-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px; /* space between items */
-            padding: 0;
-            list-style: none;
-        }
-
-        .service-item {
-            border: 2px solid red;
-            padding: 20px;
-            width: 200px;
-            height: 200px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            box-sizing: border-box;
-        }
-
-        .service-icon-box img {
-            margin-bottom: 10px;
-        }
-
-        .service-item-title {
-            margin: 10px 0;
-            font-family: Arial, sans-serif;
-            font-size: 18px;
-        }
-
-        .service-item-text {
-            font-family: Arial, sans-serif;
-            font-size: 14px;
-        }
