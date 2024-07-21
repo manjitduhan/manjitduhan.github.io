@@ -1,1 +1,1 @@
-# manjitsinghduhan.github.io
+# manjitduhan.github.io
